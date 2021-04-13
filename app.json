@@ -1,0 +1,10 @@
+{
+    "name":"TimeLapse API",
+    "description":"TimeLapse",
+    "stack":"Heroku-20",
+    "repository":"https://github.com/krypton-byte/Countdown-API",
+    "keywords":[
+        "countdown",
+        "api"
+    ]
+}
